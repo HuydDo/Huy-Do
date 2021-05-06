@@ -2,7 +2,8 @@
 
 Hi there 👋
 
-[![linkedin_socialnetwork_17441](https://user-images.githubusercontent.com/43397090/117231836-4318ab80-addd-11eb-91cb-ff5c9e86ecef.png)](https://www.linkedin.com/feed/?trk=onboarding-landing!)   ![](https://komarev.com/ghpvc/?username=HuydDo&color=blue)
+[![linkedin_socialnetwork_17441](https://user-images.githubusercontent.com/43397090/117231836-4318ab80-addd-11eb-91cb-ff5c9e86ecef.png)](https://www.linkedin.com/feed/?trk=onboarding-landing!)  [![dev_to_icon_130961](https://user-images.githubusercontent.com/43397090/117232942-6cd2d200-addf-11eb-94be-3226514ccd37.png)](https://dev.to/huyddo)
+![](https://komarev.com/ghpvc/?username=HuydDo&color=blue)
 
 My name is Huy Do and I am Full Stack Sofware Engineer.  I graduated from University of Colorado Denver and Flatiron schools.  I love to create dyanamic web applications with positive user experiences and problem sovling.
 
