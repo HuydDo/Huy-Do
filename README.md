@@ -13,8 +13,7 @@ About me:
 - 🔭I'm currently working React Projects.
 - 🌱I'm currently learning Datatstructure and Algorithms. 
 - ✨Fun fact: I join Church choir, BBQ, and traveling in my free time.
-
-📫How to reach me: huyddo40@gmail.com
+- 📫How to reach me: huyddo40@gmail.com
 
 ![javascript_original_logo_icon_146455](https://user-images.githubusercontent.com/43397090/117228851-26797500-add7-11eb-9079-ddbba2ac27ab.png)
 ![iconfinder_React js_logo_1174949 (2)](https://user-images.githubusercontent.com/43397090/117226905-eb754280-add2-11eb-9c42-3b6705caf7fa.png)
@@ -28,3 +27,4 @@ About me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuydDo&show_icons=true&theme=nord)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuydDo&layout=compact)](https://github.com/HuydDo/github-readme-stats)
