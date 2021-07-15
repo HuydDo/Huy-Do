@@ -10,7 +10,7 @@ My name is Huy Do and I am currently a QA Specialist at Dish. I graduated from U
 About me:
 
 
-- 🔭I'm currently working React Projects.
+- 🔭I'm currently working on React Projects.
 - 🌱I'm currently learning Datatstructure and Algorithms. 
 - ✨Fun fact: I join Church choir, BBQ, and traveling in my free time.
 - 📫How to reach me: huyddo40@gmail.com
