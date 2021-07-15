@@ -1,4 +1,5 @@
-![Blue Waves Profile Header](https://user-images.githubusercontent.com/43397090/117223738-8a963c00-adcb-11eb-8e4b-eef931fcf0d5.png)
+![Blue Waves Profile Header](https://user-images.githubusercontent.com/43397090/125845056-605c5be1-1c75-411f-b83a-06d49e2f72b3.png)
+
 
 Hi there 👋
 
